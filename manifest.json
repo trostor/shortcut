@@ -1,20 +1,21 @@
 {
-  "name": “苗栗道場資訊網APP",
-  "short_name": “苗栗道場資訊網APP",
+  "name": "苗栗道場資訊網APP",
+  "short_name": "道場資訊",
+  "description": "苗栗道場的官方資訊與活動指南。",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#4CAF50",
+  "theme_color": "#a62c51",
   "icons": [
     {
-      "src": "icon-192.jpg,
+      "src": "icon-192.jpg",
       "sizes": "192x192",
-      "type": "image/jpg”
+      "type": "png"
     },
     {
-      "src": "icon-512.jpg”,
+      "src": "icon-512.jpg",
       "sizes": "512x512",
-      "type": "image/jpg”
+      "type": "jpg"
     }
   ]
 }
